@@ -37,11 +37,11 @@ Dieser Talk ist als Demo angelegt. Ich werde alle Schritte live ausführen und a
 
 ## Enthaltene Dateien
 
-| Datei                            | Link                                                                                                                                          |
-| :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| Präsentation des Vortrags (PDF): | [Proxmox auf Hetzner Server - 2024-10-04 (DE)](Proxmox%20auf%20Hetzner%20Server/Proxmox%20auf%20Hetzner%20Server%20-%202024-10-04%20(DE).pdf) |
-| Storyboard:                      | [Proxmox - Server bei Hetzner (Storyboard)](Proxmox%20auf%20Hetzner%20Server/Proxmox%20-%20Server%20bei%20Hetzner%20(Storyboard).md)          |
-| Let's Encrypt einrichten:        | [Proxmox  - Let's Encrypt einrichten](Proxmox%20auf%20Hetzner%20Server/Proxmox%20-%20Let's%20Encrypt%20einrichten.md)                         |
+| Datei                            | Link                                                                                                         |
+| :------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| Präsentation des Vortrags (PDF): | [Proxmox auf Hetzner Server - 2024-10-04 (DE)](Proxmox%20auf%20Hetzner%20Server%20-%202024-10-04%20(DE).pdf) |
+| Storyboard:                      | [Proxmox - Server bei Hetzner (Storyboard)](Proxmox%20-%20Server%20bei%20Hetzner%20(Storyboard).md)          |
+| Let's Encrypt einrichten:        | [Proxmox  - Let's Encrypt einrichten](Proxmox%20-%20Let's%20Encrypt%20einrichten.md)                         |
 
 
 ## Lizenz

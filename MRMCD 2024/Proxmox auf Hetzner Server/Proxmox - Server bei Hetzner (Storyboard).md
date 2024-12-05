@@ -26,9 +26,9 @@ ssh-add ~/.ssh/mrmcd2024
 ### Server bei Hetzner bestellen
 https://www.hetzner.com/sb/
 
-![](_Medien/Hetzner%20Server%20Auktion%20-%20Serverdetails.png)
+![](../_Medien/Hetzner%20Server%20Auktion%20-%20Serverdetails.png)
 
-![](_Medien/Hetzner%20Server%20Auktion%20-%20Bestellzusammenfassung.png)
+![](../_Medien/Hetzner%20Server%20Auktion%20-%20Bestellzusammenfassung.png)
 
 ### Public Key in die Zwischenablage kopieren (MAC)
 ``` bash
@@ -158,7 +158,7 @@ https://mrmcd2024.classroomtux.de:8006/
 
 ### Let's Encrypt für Proxmox einrichten
 
-[Proxmox - Let's Encrypt einrichten](_GitHub/MRMCD%202024/Proxmox%20auf%20Hetzner%20Server/Proxmox%20-%20Let's%20Encrypt%20einrichten.md)
+[Proxmox - Let's Encrypt einrichten](Proxmox%20-%20Let's%20Encrypt%20einrichten.md)
 
 ### Local Storage disablen
 
@@ -166,7 +166,7 @@ https://mrmcd2024.classroomtux.de:8006/
 
 #### Neuen lokalen Storage als BTRFS anlegen
 
-![](_Medien/Proxmox%20-%20BTRFS%20für%20MRMCD%20hinzufügen.png)
+![](../_Medien/Proxmox%20-%20BTRFS%20für%20MRMCD%20hinzufügen.png)
 
 ``` text
 ID:         mrmcd
@@ -179,7 +179,7 @@ Content:    Disk Image, ISO Image, Container Template, VZdump backup file, Conta
 
 #### SMB Share zur Storagebox (optional)
 
-![](_Medien/Proxmox%20-%20Storagebox%20für%20Backup%20hinzufügen.png)
+![](../_Medien/Proxmox%20-%20Storagebox%20für%20Backup%20hinzufügen.png)
 
 ``` text
 ID:             storagebox
@@ -325,7 +325,7 @@ reboot
 ```
 
 #### Backups restoren
-![](_Medien/Proxmox%20-%20Backups%20für%20MRMCD2024%20Talk.png)
+![](../_Medien/Proxmox%20-%20Backups%20für%20MRMCD2024%20Talk.png)
 
 #### LXC Container in der Bash restoren
 ``` bash
@@ -345,7 +345,7 @@ qmrestore /storage/mrmcd/dump/vzdump-qemu-170080-2024_09_29-19_04_00.vma.zst 170
 #### Proxymanager erreichbar machen und konfigurieren
 
 ##### Via Linux System auf Proxmox
-![](_Medien/Proxymanager%20-%20Proxy%20Host%20für%20classroomtux.de.png)
+![](../_Medien/Proxymanager%20-%20Proxy%20Host%20für%20classroomtux.de.png)
 
 ##### Via SSH Tunnel
 
@@ -361,7 +361,7 @@ ssh root@mrmcd2024.classroomtux.de -L 9000:10.10.100.252:81
 
 Auf dem lokalen Rechner aufrufen: http://localhost:9000
 
-![](_Medien/Proxymanager%20für%20MRMCD2024.png)
+![](../_Medien/Proxymanager%20für%20MRMCD2024.png)
 
 | Source                   | Schema | Host          | Port |
 | ------------------------ | ------ | ------------- | ---- |
