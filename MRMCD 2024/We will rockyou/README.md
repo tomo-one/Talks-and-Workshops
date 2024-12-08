@@ -1,6 +1,6 @@
 # We will rockyou2009, rockyou2021, rockyou2024 ...
 
-| Art und Dauer         | Online-Vortrag (90 Minuten)                                                  |
+| Art und Dauer         | Online-Vortrag (50 Minuten)                                                  |
 | :-------------------- | :--------------------------------------------------------------------------- |
 | Termin:               | 05.10.2024 16:00–16:50, C120 - Rainbow Warrior                               |
 | Talkbeschreibung:     | https://talks.mrmcd.net/2024/talk/FJLE3D/                                    |
